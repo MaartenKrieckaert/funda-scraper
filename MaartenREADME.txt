@@ -1,0 +1,2 @@
+Just a fork to play with and hopefully attain some useful data from funda.nl
+I intend to train a machine learning algorithm to estimate the current energy label of dutch housing based on their physical characteristics and age.
